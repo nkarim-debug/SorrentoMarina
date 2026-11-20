@@ -15,6 +15,9 @@ Piattaforma web per la gestione e prenotazione dei lidi balneari presenti all'in
   src="https://contrib.rocks/image?repo=GPS-IS-The-Boys/SorrentoMarina"
   />
 </a>
+
 Test CI
+
 ## CI/CD
+
 See the detailed pipeline report: [CICD.md](CICD.md)

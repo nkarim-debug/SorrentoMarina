@@ -16,7 +16,6 @@ Piattaforma web per la gestione e prenotazione dei lidi balneari presenti all'in
   />
 </a>
 
-Test CI
 
 ## CI/CD
 
